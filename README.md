@@ -54,14 +54,19 @@ Mechanical and Electronic Tuning
 Mechanical tuning depends on changing the width of cavity i.e. the effective I capacitance and thus the resonant frequency of the klystron changes. The power output remains same with tuning.
 Electronic tuning refers to change in repeller voltage causing a change in output frequency. However, the power output also changes. A measure of electronic tuning is given by ‘Electronic tuning Sensitivity (ETS)’. This can be determined by taking the slope of the frequency characteristic of the modes.
 
-**Observation: ( Include your own Table relevant to the Experiment)**
-(Paste your Tabulation)
+**Observation:**
+<img width="1563" height="1004" alt="image" src="https://github.com/user-attachments/assets/de6b77b8-0cf4-4c63-9b93-d7222ffcffe8" />
+
+<img width="1272" height="1599" alt="image" src="https://github.com/user-attachments/assets/a0c5f613-54e7-4c5b-95ee-262781b95963" />
+
 
 **CALCULATIONS:**
 
 1.	Tuning range of 1 ¾ mode is Po = 10(x/20) watts, where x is dB reading in VSWR meter.(Include sample calculations/Display/plot/typical graph)
 2.	By taking the values of repeller voltage we can calculate the the mode number N1 = n + ¾	 with V2 = N2 = (n +1) + ¾	with V1 = N1 & N2 are respective modes numbers.
 3.	ETS (Electronic Tuning Sensitivity) = f2 - f1 / V2 – V1 MHz / V
+
+
 
 **Precautions:**
 
